@@ -1,6 +1,6 @@
 # 20210226
 
-## 1
+## 1找零錢
 ```c
 #include <stdio.h>
 int main()
@@ -11,7 +11,7 @@ int main()
 }
 ```
 
-## 2
+## 2因數個數
 ```c
 #include <stdio.h>
 int main()
